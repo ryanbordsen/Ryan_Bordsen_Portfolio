@@ -22,7 +22,8 @@ Developing and validating a helicopter-style supercritical driveshaft test rig i
 *Fairfield University – Summer 2025*  
 Conducted hands-on experimentation in polymer additive manufacturing, optimizing PCL 3D printing parameters for micro-scale scaffold fabrication.  
 - Analyzed material properties and print accuracy using microscopy and precision measurements.  
-- Developed and presented a research poster for Fairfield University’s Summer Research Symposium.  
+- Developed and presented a research poster for Fairfield University’s Summer Research Symposium.
+- Concluded Prusa FDM printers were not capable of the precision needed for scaffolds.
 
 📄 [View Research Poster (PDF)](research_poster.pdf)
 
