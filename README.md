@@ -2,6 +2,7 @@
 
 ### Fairfield University | School of Engineering and Computing (ABET-accredited)  
 **M.S. Management of Technology** – May 2027
+
 **B.S. Mechanical Engineering (Aerospace Concentration)** – May 2026  
 📧 ryanbordsen@gmail.com | 📞 (631) 830-7375  
 
